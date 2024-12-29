@@ -1,0 +1,12 @@
+- pip install uv
+- uv venv // virtual env created
+- .venv\Scripts\activate // go to activate
+- deactivate // to deactivate the env
+
+- uv pip install Django
+- django-admin startproject chaiaurDjango
+- cd chaiaurDjango
+- ls
+- python manage.py runserver
+- python manage.py runserver 8001
+- 
